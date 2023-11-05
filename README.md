@@ -1,1 +1,3 @@
-lol too lazy to write readme again, kthxbye
+HAI
+16 yo, he/him/any, who likes tech.
+nothing special in the GitHub profile so uh...
