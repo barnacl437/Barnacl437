@@ -1,5 +1,5 @@
 barnacl437's Public Licence for Freedom Work Distribution
-Version 0.1, Nov/2023
+Version 0.2, Jan/2024
 by barnacl437
 
 Premise
@@ -9,10 +9,14 @@ This licence is free for anyone to copy, distribute in verbatim, modify, and may
 You are free to self-comprehend terms used in this licence, this section is not necessary.
 
 2. Permission
-You have the permission to modify, distribute and use licenced software or any other non-computing work, under any form, without restrictions or conditions, for your own good.
-You can also commercialise modified/derived work from original work, as long as there should be at least one change in detail. However, commercialisation is not recommended. It's better to keep it free.
+You have the permission to modify, distribute and use licenced software or any other non-computing work, 
+under any form, without restrictions or conditions, for your own good. You can also commercialise modified/
+derived work from original work, as long as there should be at least one change in detail. However, 
+commercialisation is not recommended. It's better to keep it free.
 
 3. Purpose of this licence
-This licence aims to be as free as WTFPL while keeping details clear and concise. It may or may not GPL-compliant, but the ultimate goal is to give user a certain freedom zone to publish their own work under any form.
+This licence aims to be closely as free as WTFPL while keeping details clear and concise. It may or may not be
+GPL-compliant, but the ultimate goal is to give user a certain freedom zone to publish their own work under any form
+of distribution media, not limited to just software or other computing works.
 
 End of Licence
