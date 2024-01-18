@@ -1,5 +1,5 @@
 HAI
-16 yo, he/him/any, who likes tech.
+16 yo, he/him/any, who likes tech. sometimes be funny and be funky.
 nothing special in the GitHub profile so uh...
 
 I use both Windows/Linux but currently Door.
