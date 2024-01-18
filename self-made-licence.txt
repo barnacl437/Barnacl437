@@ -1,9 +1,10 @@
-barnacl437's Public Licence for Freedom Work Distribution
-Version 0.2, Jan/2024
+barnacl437's Public Licence for (Gratis) Freedom Work Distribution
+Version 0.3, Jan/2024
 by barnacl437
 
 Premise
 This licence is free for anyone to copy, distribute in verbatim, modify, and may have the name changed.
+It also emphasises the recommendation of keeping works gratis/free-of-charge. 
 
 1. Words and terms
 You are free to self-comprehend terms used in this licence, this section is not necessary.
