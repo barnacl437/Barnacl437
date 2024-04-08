@@ -1,6 +1,5 @@
-barnacl437's Public Licence for (Gratis) Freedom Work Distribution (PLgFD)
-Version 0.4, Feb/2024
-by barnacl437
+[name]'s Public Licence for (Gratis) Freedom Work Distribution (PLgFD)
+Version 0.5, Apr/2024
 
 Premise
 This licence is free for anyone to copy, distribute in verbatim, modify, and may have the name changed.
@@ -14,7 +13,12 @@ You have the permission to modify, distribute and use/apply licenced software or
 under any form in anywhere, without restrictions or conditions, for your own good. You can also commercialise modified/
 derived-from-original work. However, keeping it free is encouraged as a part of the licence target.
 
-3. Purpose of this licence
+3. Disclaimers
+The work distributed along with this licence, including software or non-computing works,
+are all provided as-is. In no event will/shall the original author be liable for any consequences 
+occuring during work use. Any copyright infringement upon using this licence will not be assured.
+
+4. Purpose of this licence
 This licence aims to be closely as free as WTFPL while keeping details clear and concise. It may or may not be
 GPL-compliant, but the ultimate goal is to give user a certain freedom zone to publish their own work under any form
 of distribution media, not limited to just software or other computing works.
