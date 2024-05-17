@@ -1,5 +1,5 @@
 # HAI
-* 16 yo, he/him/any, a native Vietnamese, your talking bush (lel), who likes tech. sometimes be funny and be funky.
+* 17 yo (as of 14/May/2024), born in 1179131700th second after unix epoch, he/him/any, a native Vietnamese, your talking bush (lel), who likes tech. sometimes be funny and be funky.
 nothing special in the GitHub profile so uh...
 
 * I use both Windows/Linux but currently Door.
