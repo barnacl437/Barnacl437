@@ -2,7 +2,6 @@
 \ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/Barnacl437/barnacl437.github.io/main/pictures/GNmrrWXboAA3cu1.jpg');]{x0000}$}
 ```
 # HAI
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/Barnacl437/barnacl437.github.io/main/pictures/lel.svg');]{x0000}$}
 17 yo (as of 14/May/2024), born in 1179131700th second after unix epoch, he/him/any, a native Vietnamese, your talking bush (lel), who likes tech. sometimes be funny and be funky.
 nothing special in the GitHub profile so uh...
 
