@@ -5,12 +5,14 @@
 17 yo (as of 14/May/2024), born in 1179131700th second after unix epoch, he/him/any, a native Vietnamese, your talking bush (lel), who likes tech. sometimes be funny and be funky.
 nothing special in the GitHub profile so uh...
 
- I use both Windows/Linux but currently Door.
-Trying to learn Python in a very slow state. Other linguas not planned yet.
+ I use both Windows/Linux but currently Door. next OS gonna be System V ported on a triune brain processor.
 
+Knows a molecule of Python, html/css basic literation.
 Also knows Windows Batch in basic. I aim to learn Bash later too.
 
 Being a translator is not really hard, I recently submitted a (kinda) complete vi translation to an emulation project not gonnuh mention here. Yes I meant you can just understand at least English and your local speak (if any). Might be a boring, wasting time, if you think so, but nvm am enjoying it rn so uhhh
+
+translating new valve game as a community localisation project. taking ages since i use nothing beyond web vscode. anyone recommend vim then? i say it nothing beyond a good lock screen. 
 
 html/css _minor_ literation. I made a simple css file out of some css sample codes from the internet and made it a bit monospaced paranoid-ish looking. just a silly test tho, but you can find it in my [github.io repo](https://github.com/barnacl437/barnacl437.github.io). enjoy!!!1!1!111!111!11!1!!!
 
