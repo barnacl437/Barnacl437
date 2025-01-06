@@ -20,8 +20,8 @@ html/css _minor_ literation. I made a simple css file out of some css sample cod
 
 I mostly use [WTFPL](https://en.wikipedia.org/wiki/WTFPL) or no licence on my projects. They are mostly for fun perhaps, so the licence should be also fun and short af xddd
 
-and hey, I am generally friendly, talkative, a little smart-ass seeming but still reachable ~~(yes i am smartass)~~. I accept open friend requests, so feel free to talk to me on my "supported" social platforms, a complete list is available [here](https://barnacl437.github.io/#social-links).
+and hey, I am generally friendly, talkative, a little smart-ass seeming but still reachable ~~(yes i am smartass)~~. I accept open friend requests, so feel free to talk to me on my "supported" social platforms, a complete list is available [here](https://barnacl437.github.io/#social-links). Can't properly send a fen req on discord? want to leave some relic proving your existence somewhere on the internet? Throw me your word @ this repo's [discussion page](https://github.com/Barnacl437/Barnacl437/discussions). I treat it as a forum gateway and would hope to reading allat anything you write as i have time to do. lel
 
-## KTHXBYE!!11!!111!1!
+### KTHXBYE!!11!!111!1!
 
-footnote: def not inspired by [Lolcode](http://www.lolcode.org/).
+*footnote: def not inspired by [Lolcode](http://www.lolcode.org/).*
