@@ -1,3 +1,4 @@
+im 100% sure it will show a funny red box below this text.
 ```math
 \ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/Barnacl437/barnacl437.github.io/main/pictures/GNmrrWXboAA3cu1.jpg');]{x0000}$}
 ```
@@ -39,35 +40,35 @@ result:
 <tbody><tr>
 <th dir="ltr">vi<span class="mw-babel-box-level-N">-N</span>
 </th>
-<td dir="ltr" lang="vi">Thành viên này xem <a href="/wiki/Category:User_vi" title="Category:User vi">tiếng Việt</a> là ngôn ngữ <a class="mw-selflink selflink">mẹ đẻ</a>.
+<td dir="ltr" lang="vi">Thành viên này xem tiếng Việt là ngôn ngữ mẹ đẻ.
 </td></tr></tbody></table>
 </div><div class="mw-babel-box mw-babel-box-3 mw-babel-box-en notheme" dir="ltr">
 <table>
 <tbody><tr>
 <th dir="ltr">en<span class="mw-babel-box-level-3">-3</span>
 </th>
-<td dir="ltr" lang="en">This user has <a href="https://meta.wikimedia.org/wiki/User:Barnacl437" class="extiw" title="m:User:Barnacl437">advanced</a> knowledge of <a href="https://meta.wikimedia.org/wiki/Category:User_en" class="extiw" title="m:Category:User en">English</a>.
+<td dir="ltr" lang="en">This user has advanced knowledge of English.
 </td></tr></tbody></table>
 </div><div class="mw-babel-box mw-babel-box-0 mw-babel-box-eo notheme" dir="ltr">
 <table>
 <tbody><tr>
 <th dir="ltr">eo<span class="mw-babel-box-level-0">-0</span>
 </th>
-<td dir="ltr" lang="eo">Ĉi tiu uzanto <a class="mw-selflink selflink">ne komprenas</a> <a href="/wiki/Category:User_eo" title="Category:User eo">Esperanton</a>, aŭ tre malfacile komprenas.
+<td dir="ltr" lang="eo">Ĉi tiu uzanto ne komprenas Esperanton, aŭ tre malfacile komprenas.
 </td></tr></tbody></table>
 </div><div class="mw-babel-box mw-babel-box-0 mw-babel-box-zh notheme" dir="ltr">
 <table>
 <tbody><tr>
 <th dir="ltr">zh<span class="mw-babel-box-level-0">-0</span>
 </th>
-<td dir="ltr" lang="zh">这位用户<a class="mw-selflink selflink">不懂</a>或很难理解<a href="/wiki/Category:User_zh" title="Category:User zh">中文</a>。
+<td dir="ltr" lang="zh">这位用户不懂或很难理解中文。
 </td></tr></tbody></table>
 </div><div class="mw-babel-box mw-babel-box-1 mw-babel-box-tok notheme" dir="ltr">
 <table>
 <tbody><tr>
 <th dir="ltr">tok<span class="mw-babel-box-level-1">-1</span>
 </th>
-<td dir="ltr" lang="tok">mi <a class="mw-selflink selflink">sona lili</a> e <a href="/wiki/Category:User_tok" title="Category:User tok">toki pona</a>.
+<td dir="ltr" lang="tok">mi sona lili e toki pona.
 </td></tr></tbody></table>
 </div>
 </td></tr>
