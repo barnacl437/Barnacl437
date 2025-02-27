@@ -15,8 +15,8 @@ Also knows Windows Batch in basic. I aim to learn Bash later too.
 ## do
 Being a translator is not really hard, I recently submitted a (kinda) complete vi translation to an emulation project not gonnuh mention here. Yes I meant you can just understand at least English and your local speak (if any). Might be a boring, wasting time, if you think so, but nvm am enjoying it rn so uhhh
 
-translating new valve game as a community localisation project. taking ages since im lazy lmao (edit: yeah actually altho as a part time job, i am still dedicating many of my free times just to do this and surfing the net ngl its a boredom)
-html/css _minor_ literation. I made a simple css file out of some css sample codes from the internet and made it a bit monospaced paranoid-ish looking. just a silly test tho, but you can find it in my [github.io repo](https://github.com/barnacl437/barnacl437.github.io). enjoy!!!1!1!111!111!11!1!!!
+translating new valve game as a community localisation project. taking ages since im lazy lmao (edit: yeah actually altho as a part time job, i am still dedicating many of my free times just to do this and surfing the net ngl its a boredom) (edit2: the project is now temporarily halted due to lessening interest in it)
+has some html/css literation. I made a website, as well as a simple css file out of some css sample codes from the internet and what i've learned from my it lesson and made it a bit monospaced paranoid-ish looking. just a silly test tho, but you can find it in my [github.io repo](https://github.com/barnacl437/barnacl437.github.io). enjoy!!!1!1!111!111!11!1!!! reckon gotta learn js later 
 
 ## unpopular opinion
 vi/vim/nvim are all good lock screens.   
