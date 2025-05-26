@@ -4,7 +4,7 @@ im 100% sure it will show a funny red box below this text.
 ```
 # HAI
 ## basic info ig
-17 yo (as of 14/May/2024), born in 1179131700th second after unix epoch, he/him/any, a native Vietnamese, your talking bush (lel), who likes tech. sometimes be funny and be funky.
+18 yo (as of some point mid 2025), born in 1179131700th second after unix epoch, he/him/any, a native Vietnamese, your talking bush (lel), who likes tech. sometimes be funny and be funky.
 nothing special in the GitHub profile so uh...
 
 I use both Windows/Linux but currently Door. next OS gonna be System V ported on a triune brain processor.
@@ -25,55 +25,10 @@ vi/vim/nvim are all good lock screens.
 ## babel
 just a wikipedia-copypasted language proficiency showcase.
 
-
 ```wikitext
 {{#babel:vi-N|en-3|eo-0|zh-0|tok-1}}
 ```
 
-result:
-<table class="mw-babel-wrapper notheme">
-<tbody><tr>
-<th class="mw-babel-header"><a href="https://meta.wikimedia.org/wiki/User_language" class="extiw" title="m:User language">User language</a>
-</th></tr>
-<tr>
-<td><div class="mw-babel-box mw-babel-box-N mw-babel-box-vi notheme" dir="ltr">
-<table>
-<tbody><tr>
-<th dir="ltr">vi<span class="mw-babel-box-level-N">-N</span>
-</th>
-<td dir="ltr" lang="vi">Thành viên này xem tiếng Việt là ngôn ngữ mẹ đẻ.
-</td></tr></tbody></table>
-</div><div class="mw-babel-box mw-babel-box-3 mw-babel-box-en notheme" dir="ltr">
-<table>
-<tbody><tr>
-<th dir="ltr">en<span class="mw-babel-box-level-3">-3</span>
-</th>
-<td dir="ltr" lang="en">This user has advanced knowledge of English.
-</td></tr></tbody></table>
-</div><div class="mw-babel-box mw-babel-box-0 mw-babel-box-eo notheme" dir="ltr">
-<table>
-<tbody><tr>
-<th dir="ltr">eo<span class="mw-babel-box-level-0">-0</span>
-</th>
-<td dir="ltr" lang="eo">Ĉi tiu uzanto ne komprenas Esperanton, aŭ tre malfacile komprenas.
-</td></tr></tbody></table>
-</div><div class="mw-babel-box mw-babel-box-0 mw-babel-box-zh notheme" dir="ltr">
-<table>
-<tbody><tr>
-<th dir="ltr">zh<span class="mw-babel-box-level-0">-0</span>
-</th>
-<td dir="ltr" lang="zh">这位用户不懂或很难理解中文。
-</td></tr></tbody></table>
-</div><div class="mw-babel-box mw-babel-box-1 mw-babel-box-tok notheme" dir="ltr">
-<table>
-<tbody><tr>
-<th dir="ltr">tok<span class="mw-babel-box-level-1">-1</span>
-</th>
-<td dir="ltr" lang="tok">mi sona lili e toki pona.
-</td></tr></tbody></table>
-</div>
-</td></tr>
-</tbody></table>
 
 ## licence usage
 I mostly use [WTFPL](https://en.wikipedia.org/wiki/WTFPL) or no licence on my projects. They are mostly for fun perhaps, so the licence should be also fun and short af xddd
@@ -82,5 +37,3 @@ I mostly use [WTFPL](https://en.wikipedia.org/wiki/WTFPL) or no licence on my pr
 and hey, I am generally friendly, talkative, a little smart-ass seeming but still reachable ~~(yes i am smartass)~~. I accept open friend requests and open dm (albeit with some conditions), so feel free to talk to me on my "supported" social platforms, a complete list is available [here](https://barnacl437.github.io/#social-links). Can't properly send a fen req on discord? want to leave some relics proving your existence somewhere on the internet? Throw me your word @ this repo's [discussion page](https://github.com/Barnacl437/Barnacl437/discussions). I treat it as a forum gateway and would hope to reading allat anything you write as i have time to do. lel
 
 ### KTHXBYE!!11!!111!1!
-
-*footnote: def not inspired by [Lolcode](http://www.lolcode.org/).*
