@@ -10,10 +10,10 @@ nothing special in the GitHub profile so uh...
 I use both Windows/Linux but currently Door. next OS gonna be System V ported on a triune brain processor.
 
 Knows a molecule of Python.
-Also knows Windows Batch in basic. I aim to learn Bash later too.
+Also knows Windows Batch in basic. I aim to learn Bash later too. Pretty much a newb. Won't accept any offers for now. Mark my words. 🗣️🗣️
 
 ## do
-Being a translator is not really hard, I recently submitted a (kinda) complete vi translation to an emulation project not gonnuh mention here. Yes I meant you can just understand at least English and your local speak (if any). Might be a boring, wasting time, if you think so, but nvm am enjoying it rn so uhhh
+occasionally translating stuff. I recently submitted a (kinda) complete vi translation to an emulation project not gonnuh mention here. Yes I meant you can just understand at least English and your local speak (if any). Might be a boring, wasting time, if you think so, but nvm am enjoying it rn so uhhh
 
 translating new valve game as a community localisation project. taking ages since im lazy lmao (edit: yeah actually altho as a part time job, i am still dedicating many of my free times just to do this and surfing the net ngl its a boredom) (edit2: the project is now temporarily halted due to lessening interest in it)
 
