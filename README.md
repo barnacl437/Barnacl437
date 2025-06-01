@@ -10,7 +10,7 @@ nothing special in the GitHub profile so uh...
 I use both Windows/Linux but currently Door. next OS gonna be System V ported on a triune brain processor.
 
 Knows a molecule of Python.
-Also knows Windows Batch in basic. I aim to learn Bash later too. Pretty much a newb. Won't accept any offers for now. Mark my words. 🗣️🗣️
+Also knows Windows Batch in basic. I aim to learn Bash later too. Pretty much a newb. Won't accept any offers for now. Mark my words. 🗣️🗣️ (at least til im good with my major on uni)
 
 ## do
 occasionally translating stuff. I recently submitted a (kinda) complete vi translation to an emulation project not gonnuh mention here. Yes I meant you can just understand at least English and your local speak (if any). Might be a boring, wasting time, if you think so, but nvm am enjoying it rn so uhhh
