@@ -2,6 +2,12 @@ im 100% sure it will show a funny red box below this text.
 ```math
 \ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/Barnacl437/barnacl437.github.io/main/pictures/GNmrrWXboAA3cu1.jpg');]{x0000}$}
 ```
+
+> [!NOTE]
+> I've noticed some weird doods are following me trying to promote something, having an *uncannily large number of following users* and/or bearing other strange indications in their profile. If you do too, just nevermind. I don't know any of them. *This could be a common phenomenon in social media, who knows*. The others in the list are either my friends or someone passing by.
+> 
+> Also, yes, I do notice. Nevertheless, for now, I'll not take any action.
+
 # HAI
 ## basic info ig
 18 yo (as of some point mid 2025), born in 1179131700th second after unix epoch, he/him/any, a native Vietnamese, your talking bush (lel), who likes tech. sometimes be funny and be funky.
