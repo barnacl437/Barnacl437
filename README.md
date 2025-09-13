@@ -4,7 +4,7 @@ im 100% sure it will show a funny red box below this text.
 ```
 
 > [!NOTE]
-> I've noticed some weird doods are following me trying to promote/advertise something (i.e. "I can do X for you/your buiness), having an *uncannily large number of following users* (usually tens of thousands or more) and/or bearing other strange indications in their profile. If you do too, just nevermind. I don't know any of them. *This could be a common phenomenon in social media, who knows*. The others in the list are either my friends or someone passing by.
+> I've noticed some weird doods are following me trying to promote/advertise something (i.e. "I can do X for you/your business"), having an *uncannily large number of following users* (usually tens of thousands or more) and/or bearing other strange indications in their profile. If you do too, just nevermind. I don't know any of them. *This could be a common phenomenon in social media, who knows*. The others in the list are either my friends or someone passing by.
 > 
 > Also, yes, I do notice. Nevertheless, for now, I'll not take any action.
 
