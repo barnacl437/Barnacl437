@@ -34,7 +34,7 @@ just a wikipedia-copypasted language proficiency showcase.
 ```wikitext
 {{#babel:vi-N|en-3|eo-0|zh-0|tok-1|ja-0}}
 ```
-talking wikipedia... [User:Nguyentrongphu](https://vi.wikipedia.org/wiki/Th%C3%A0nh_vi%C3%AAn:Nguyentrongphu), being a burocrat admin at WP-vi, banned me from editing on WP-vi (Vietnamese Wikipedia project). In turn, he was also banned for allegedly using sockpuppet accounts. But my ban would never be lifted. I need a justice. And I'm fighting for it. 
+talking wikipedia... [User:Nguyentrongphu](https://vi.wikipedia.org/wiki/Th%C3%A0nh_vi%C3%AAn:Nguyentrongphu), being a burocratic admin at WP-vi, banned me from editing on WP-vi (Vietnamese Wikipedia project). In turn, he was also banned for allegedly using sockpuppet accounts. But my ban would never be lifted. I need a justice. And I'm fighting for it. 
 
 ## licence usage
 I mostly use [WTFPL](https://en.wikipedia.org/wiki/WTFPL) or no licence on my projects. They are mostly for fun perhaps, so the licence should be also fun and short af xddd
