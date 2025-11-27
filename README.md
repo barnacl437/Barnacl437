@@ -19,7 +19,7 @@ Knows a molecule of Python.
 Also knows Windows Batch in basic. I aim to learn Bash later too. Pretty much a newb. Won't accept any offers for now. Mark my words. 🗣️🗣️ (at least til im good with my major on uni)
 
 ## do
-occasionally translating stuff. I recently submitted a (kinda) complete vi translation to an emulation project not gonnuh mention here. Yes I meant you can just understand at least English and your local speak (if any). Might be a boring, wasting time, if you think so, but nvm am enjoying it rn so uhhh
+occasionally i do (in most case, vietnamese) localisation, participated projects undisclosed. Yes I meant you can just understand at least English and your local speak (if any). Might be a boring, time wasting work, if you think so, but nvm am enjoying it rn so uhhh
 
 translating new valve game as a community localisation project. taking ages since im lazy lmao (edit: yeah actually altho as a part time job, i am still dedicating many of my free times just to do this and surfing the net ngl its a boredom) (edit2: the project is now temporarily halted due to lessening interest in it)
 
@@ -32,9 +32,9 @@ vi/vim/nvim are all good lock screens.
 just a wikipedia-copypasted language proficiency showcase.
 
 ```wikitext
-{{#babel:vi-N|en-3|eo-0|zh-0|tok-1}}
+{{#babel:vi-N|en-3|eo-0|zh-0|tok-1|ja-0}}
 ```
-
+talking wikipedia... [User:Nguyentrongphu](https://vi.wikipedia.org/wiki/Th%C3%A0nh_vi%C3%AAn:Nguyentrongphu), being a burocrat admin at WP-vi, banned me from editing on WP-vi (Vietnamese Wikipedia project). In turn, he was also banned for allegedly using sockpuppet accounts. But my ban would never be lifted. I need a justice. And I'm fighting for it. 
 
 ## licence usage
 I mostly use [WTFPL](https://en.wikipedia.org/wiki/WTFPL) or no licence on my projects. They are mostly for fun perhaps, so the licence should be also fun and short af xddd
